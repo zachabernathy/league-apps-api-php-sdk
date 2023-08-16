@@ -12,6 +12,6 @@ composer intall
 ```shell
 define( 'LEAGUE_APPS_SITE_ID', 'YOUR_SITE_ID' );               // found in the url of your LA site
 define( 'LEAGUE_APPS_PRIVATE_KEY_ID', 'YOUR_PRIVATE_KEY_ID' ); // generated in the LA admin
-define( 'LEAGUE_APPS_PRIVATE_KEY_DIR', THEME_DIR . '/keys/' ); // path/to/theme/keys/
+define( 'LEAGUE_APPS_PRIVATE_KEY_DIR', 'path/to/keys/' );
 ```
  
