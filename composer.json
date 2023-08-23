@@ -1,6 +1,0 @@
-{
-    "require": {
-        "guzzlehttp/guzzle": "^7.7",
-        "web-token/jwt-framework": "^2.0"
-    }
-}
